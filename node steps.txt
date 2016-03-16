@@ -1,0 +1,34 @@
+run git init
+run npm init
+make new repository on github
+run git add .
+run git commit -m "Init commit"
+run git push -u origin master
+run npm install express --save
+create server.js file
+
+create public folder and index.html file
+
+to start server --> node server.js
+
+create .gitignore file
+run git status
+run git add .
+run git commit -am "setup server"
+run git push
+run heroku create
+
+run heroku apps:rename newname - to rename app
+
+run git push heroku master
+
+
+
+
+
+
+
+
+
+
+
